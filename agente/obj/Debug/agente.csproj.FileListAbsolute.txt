@@ -1,0 +1,15 @@
+D:\users\fabio.wendel\Documents\Visual Studio 2013\Projects\agente\agente\bin\Debug\agente.exe.config
+D:\users\fabio.wendel\Documents\Visual Studio 2013\Projects\agente\agente\bin\Debug\agente.exe
+D:\users\fabio.wendel\Documents\Visual Studio 2013\Projects\agente\agente\bin\Debug\agente.pdb
+D:\users\fabio.wendel\Documents\Visual Studio 2013\Projects\agente\agente\obj\Debug\agente.csprojResolveAssemblyReference.cache
+D:\users\fabio.wendel\Documents\Visual Studio 2013\Projects\agente\agente\obj\Debug\agente.Form1.resources
+D:\users\fabio.wendel\Documents\Visual Studio 2013\Projects\agente\agente\obj\Debug\agente.Properties.Resources.resources
+D:\users\fabio.wendel\Documents\Visual Studio 2013\Projects\agente\agente\obj\Debug\agente.csproj.GenerateResource.Cache
+D:\users\fabio.wendel\Documents\Visual Studio 2013\Projects\agente\agente\obj\Debug\agente.exe
+D:\users\fabio.wendel\Documents\Visual Studio 2013\Projects\agente\agente\obj\Debug\agente.pdb
+D:\users\fabio.wendel\Documents\Visual Studio 2013\Projects\tratacsv\agente\bin\Debug\agente.exe.config
+D:\users\fabio.wendel\Documents\Visual Studio 2013\Projects\tratacsv\agente\obj\Debug\agente.exe
+D:\users\fabio.wendel\Documents\Visual Studio 2013\Projects\tratacsv\agente\obj\Debug\agente.pdb
+d:\Users\antonio.rosario\Desktop\GitHub\tratacsv\agente\bin\Debug\agente.exe.config
+d:\Users\antonio.rosario\Desktop\GitHub\tratacsv\agente\obj\Debug\agente.exe
+d:\Users\antonio.rosario\Desktop\GitHub\tratacsv\agente\obj\Debug\agente.pdb

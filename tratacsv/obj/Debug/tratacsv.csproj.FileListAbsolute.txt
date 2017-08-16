@@ -1,0 +1,18 @@
+D:\users\fabio.wendel\Documents\Visual Studio 2013\Projects\agente\tratacsv\bin\Debug\tratacsv.exe.config
+D:\users\fabio.wendel\Documents\Visual Studio 2013\Projects\agente\tratacsv\bin\Debug\tratacsv.exe
+D:\users\fabio.wendel\Documents\Visual Studio 2013\Projects\agente\tratacsv\bin\Debug\tratacsv.pdb
+D:\users\fabio.wendel\Documents\Visual Studio 2013\Projects\agente\tratacsv\obj\Debug\tratacsv.csprojResolveAssemblyReference.cache
+D:\users\fabio.wendel\Documents\Visual Studio 2013\Projects\agente\tratacsv\obj\Debug\tratacsv.exe
+D:\users\fabio.wendel\Documents\Visual Studio 2013\Projects\agente\tratacsv\obj\Debug\tratacsv.pdb
+D:\users\fabio.wendel\Documents\Visual Studio 2013\Projects\tratacsv\tratacsv\bin\Debug\tratacsv.exe.config
+D:\users\fabio.wendel\Documents\Visual Studio 2013\Projects\tratacsv\tratacsv\bin\Debug\tratacsv.exe
+D:\users\fabio.wendel\Documents\Visual Studio 2013\Projects\tratacsv\tratacsv\bin\Debug\tratacsv.pdb
+D:\users\fabio.wendel\Documents\Visual Studio 2013\Projects\tratacsv\tratacsv\obj\Debug\tratacsv.csprojResolveAssemblyReference.cache
+D:\users\fabio.wendel\Documents\Visual Studio 2013\Projects\tratacsv\tratacsv\obj\Debug\tratacsv.exe
+D:\users\fabio.wendel\Documents\Visual Studio 2013\Projects\tratacsv\tratacsv\obj\Debug\tratacsv.pdb
+d:\Users\antonio.rosario\Desktop\GitHub\tratacsv\tratacsv\bin\Debug\tratacsv.exe.config
+d:\Users\antonio.rosario\Desktop\GitHub\tratacsv\tratacsv\bin\Debug\tratacsv.exe
+d:\Users\antonio.rosario\Desktop\GitHub\tratacsv\tratacsv\bin\Debug\tratacsv.pdb
+d:\Users\antonio.rosario\Desktop\GitHub\tratacsv\tratacsv\obj\Debug\tratacsv.csprojResolveAssemblyReference.cache
+d:\Users\antonio.rosario\Desktop\GitHub\tratacsv\tratacsv\obj\Debug\tratacsv.exe
+d:\Users\antonio.rosario\Desktop\GitHub\tratacsv\tratacsv\obj\Debug\tratacsv.pdb
