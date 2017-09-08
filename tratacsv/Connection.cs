@@ -30,7 +30,7 @@ using System.Data.SqlClient;
         
         public SqlConnection cone()
         {
-            SqlConnection con = new SqlConnection(deco());            
+            SqlConnection con = new SqlConnection(deco()+";Initial Catalog=GER_AMB_TIVIT");            
             con.Open();
             return con;
         }

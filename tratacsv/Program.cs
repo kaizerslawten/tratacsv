@@ -50,7 +50,8 @@ namespace tratacsv
                     con_data.cone().Close();
 
                     //Console.WriteLine(query);
-                    File.Move(file,Directory.GetCurrentDirectory() + @"\processados\" + nom);
+                    File.Copy(file,Directory.GetCurrentDirectory() + @"\processados\" + nom,true);
+                    File.Delete(file);
 
                 }
                 catch (Exception ex)
